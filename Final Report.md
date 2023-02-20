@@ -1,32 +1,3 @@
-Sydney Lieske
-
-Isabella Morales
-
-Final Project
-
-Intelligent Mobility
-
-Fall 2022
-
-Car Accident Dataset
-
-*Submitted to*
-
-Mahta Zakaria
-
-Florida Polytechnic University
-
-*Submitted by*
-
-Sydney Lieske
-
-Isabella Morales
-
-Department of Data Science
-
-Florida Polytechnic University
-
-**12/11/2022**
 
 Table of Contents
 
